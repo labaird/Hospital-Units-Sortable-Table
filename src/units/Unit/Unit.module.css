@@ -1,0 +1,23 @@
+.noAlarm {
+  background-color: white;
+}
+
+.noAlarm:hover {
+  background-color: #CFD8DC;
+}
+
+.lowAlarm {
+  background-color: #B2DFDB;
+}
+
+.lowAlarm:hover {
+  background-color: #80CBC4;
+}
+
+.highAlarm {
+  background-color: #FFCDD2;
+}
+
+.highAlarm:hover {
+  background-color: #EF9A9A;
+}
